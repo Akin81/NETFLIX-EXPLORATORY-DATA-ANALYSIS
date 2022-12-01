@@ -1,7 +1,7 @@
 # NETFLIX-EXPLORATORY-DATA-ANALYSIS
 
 
-I got Netflix dataset from Kaggle.com, importe using pandas library and took the following steps:
+I got Netflix dataset from Kaggle.com, imported using pandas library and took the following steps:
 
 •	I checked the dataset descriptions, information, and missing values
 
