@@ -3,7 +3,7 @@
 
 I got Netflix dataset from Kaggle.com, importe using pandas library and took the following steps:
 
-•	I check the dataset descriptions, information, and missing values
+•	I checked the dataset descriptions, information, and missing values
 
 •	I dropped the null(missing) values
 
